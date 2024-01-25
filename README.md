@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThompsonLuke7
 - 👀 I’m interested in artificial intelligence, cognitive neuroscience, health sciences, and finances.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Ruby.
 - 💞️ I’m looking to collaborate on anything really. Would love to work on more AI projects!
 - 📫 How to reach me thompson.4167@osu.edu
 
